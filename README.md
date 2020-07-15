@@ -2,7 +2,7 @@
 A simple python program to fetch torrents.
 
 # Usage
-Run the script and enter movie name in lower case with year.\
+Run the script and input query in the following format.\
 *Eg: titanic 1997*
 
 # Output
