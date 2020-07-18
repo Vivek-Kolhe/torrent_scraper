@@ -28,4 +28,4 @@ try:
     pyperclip.copy(torrents[ind]["Magnet"])
     print("\nCopied magnet to your clipboard. :)")
 except Exception:
-    print("Check index again and Re-run the script.")
+    print("Check index again.")
