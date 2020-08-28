@@ -1,8 +1,15 @@
 # Torrent Scraper
-A simple python program to fetch torrents.
+A simple torrent fetcher.
+
+# Dependencies
+- Requests ```pip3 install requests```
+
+- BeautifulSoup4 ```pip3 install beautifulsoup4```
+
+- Pyperclip ```pip3 install pyperclip```
 
 # Usage
-Run the script and input query in the following format.\
+Clone the repository and run **main.py**.\
 *Eg: titanic 1997* *(For YIFY only)*
 
 # Output
